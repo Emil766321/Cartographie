@@ -8,8 +8,30 @@ Protection:
 		- https://learn.microsoft.com/en-us/office/client-developer/visio/protection-section
 Création des liens:
 	info:
-		-
-	conception:
-		- Formulaire
+		
+		- action rows pour ajouter des actions dans les menus
+		- fichier gabarit pour modifier les shapes
+		- 
 	source:
-		-
+		- émilien
+		- chat gpt
+		- 
+	conception:
+		Flux
+			- Créer la shape flux dans le gabarit 
+				- Ajouter les actions row
+					- Angle Aigu/Angle Arrondi
+					- Trait Pointillés/Trait Plein
+					- Trait Épais/Trait Normal
+		POUR QUOI
+			- Créer la shape pour quoi dans le gabarit
+				- Ajouter les actions row
+					- ???(Afficher le trait de connexion/Masquer le trait de connexion)???
+		ET/OU
+			- Créer la shape ET/OU dans le gabarit
+				- Ajouter les actions row
+					- Changer le Et en Ou/Changer le Ou en Et
+					- Changer le Et/Ou en And/Or / Changer le And/Or en Et/Ou
+					- Connecter en Haut de la Forme / Connecter en Bas de la Forme
+			- Ajouter une validation
+				- interdire de placer la forme sans la connecter à un Quoi
