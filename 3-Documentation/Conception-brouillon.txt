@@ -23,6 +23,18 @@ Création des liens:
 					- Angle Aigu/Angle Arrondi
 					- Trait Pointillés/Trait Plein
 					- Trait Épais/Trait Normal
+			- Comportement
+				- Quand 'Quoi' placé en dessous: 1 -> 2
+				- Quand 'Quoi' placé en dessus: 2 -> 1
+				- Quand 'Quoi' placé à droite: 1 -> 2
+				- Quand 'Quoi' placé à gauche: 2 -> 1
+			- Défaut
+				- Angle arrondi
+				- Trait plein
+				- Trait normal
+				- avec Pour Quoi
+					- Data In-Out
+				
 		POUR QUOI
 			- Créer la shape pour quoi dans le gabarit
 				- Ajouter les actions row
@@ -35,3 +47,4 @@ Création des liens:
 					- Connecter en Haut de la Forme / Connecter en Bas de la Forme
 			- Ajouter une validation
 				- interdire de placer la forme sans la connecter à un Quoi
+		
